@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato&family=Rubik:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lato&display=swap');
 body {
-    background-image: url(/image/bd-bg.jpg);
+    background-image: url(image/bd-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -19,7 +19,7 @@ header {
     justify-content: space-around;
     align-items: center;
     background-color: #eee;
-    background-image: url(/image/hd-bg.jpg);
+    background-image: url(image/hd-bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
